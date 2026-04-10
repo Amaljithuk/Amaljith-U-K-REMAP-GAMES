@@ -9,13 +9,13 @@ This repository contains a series of games developed in Python, featuring custom
 ## 🎮 Features
 
 - **Python-based Games**: All games are built using Python
-- **Remappable Controls**: Customize keyboard controls for each game
+-
 - **Easy Setup**: Simple installation process with all dependencies included
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Python 3.x installed on your system
+- Python 3.10.x installed on your system
 - Dependencies as specified in the setup files
 
 ### Installation & Setup
@@ -42,9 +42,6 @@ Browse the repository to explore all available games. Each game folder contains:
 - Configuration files for key remapping
 - Instructions specific to that game
 
-## ⌨️ Control Remapping
-
-Each game supports custom key remapping. Look for the control configuration files within each game directory to customize your controls before launching.
 
 ## 📁 Project Structure
 
@@ -73,9 +70,7 @@ Include your license information here.
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
-## 📞 Support
 
-For setup issues and detailed installation steps, refer to the [Google Drive setup folder](https://drive.google.com/drive/folders/1X_tYFvj1lmk4bwOwBmiOCpGtlgy4FOJ3?usp=drive_link).
 
 ---
 
